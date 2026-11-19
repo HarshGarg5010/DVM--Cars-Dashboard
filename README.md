@@ -134,6 +134,6 @@ DVM-CAR/
 ## 📬 Connect With Me
 
 **Harsh Garg**
-🔗 [LinkedIn]([https://www.linkedin.com/in/harsh-garg-161878291?utm_source=share_via&utm_content=profile&utm_medium=member_android])  • ✉️ [harshgarg5010@gmail.com]
+🔗 [LinkedIn](https://www.linkedin.com/in/harsh-garg-161878291?utm_source=share_via&utm_content=profile&utm_medium=member_android)  • ✉️ [harshgarg5010@gmail.com]
 
 <p align="center"><i>Turning Data into Decisions. Driving Insights through Analytics. 🚗</i></p>
