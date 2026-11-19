@@ -14,8 +14,6 @@
 <p align="center">
   <a href="[YOUR_POWER_BI_PUBLISH_TO_WEB_LINK]"><b>🔗 View Live Dashboard</b></a> •
   <a href="#-dashboard-preview">Screenshots</a> •
-  <a href="#-how-to-explore-the-project">How to Run</a> •
-  <a href="#-connect-with-me">Contact</a>
 </p>
 
 ---
